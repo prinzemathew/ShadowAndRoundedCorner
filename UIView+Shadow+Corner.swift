@@ -1,4 +1,12 @@
-import Foundation
+//
+//  UIView+Shadow+Corner.swift
+//  UIViewExtension
+//
+//  Created by Prince Mathew on 07/05/20.
+//  Copyright © 2020 Prince Mathew. All rights reserved.
+//
+
+import UIKit
 
 extension UIView {
     
